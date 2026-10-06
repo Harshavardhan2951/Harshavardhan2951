@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Harsha+Vardhan;Full+Stack+Developer;Problem+Solver;Tech+Lover+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Harsha+Vardhan;AIML+Enthusiast;Problem+Solver;Tech+Lover+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <h1 align="center"> 
@@ -35,7 +35,7 @@ I’m a passionate developer who enjoys turning ideas into working, scalable, an
 - ⚙️ Interested in backend systems, product thinking, and engineering excellence
 - 🌍 Love solving challenging problems and shipping value fast
 
-> “Code is not just logic — it’s creativity, discipline, and impact.”
+> “Enjoy the Creativity of Life... Build the Applications make easy to people it's not just logic.....it’s creativity, discipline, and impact”
 
 ---
 
