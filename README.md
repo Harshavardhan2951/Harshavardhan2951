@@ -70,10 +70,6 @@ I’m a passionate developer who enjoys turning ideas into working, scalable, an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshavardhan2951&theme=radical&hide_border=true" alt="GitHub Streak" height="200" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavardhan2951&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🌟 Featured Projects
