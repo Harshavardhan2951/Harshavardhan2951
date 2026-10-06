@@ -42,10 +42,8 @@ I’m a passionate developer who enjoys turning ideas into working, scalable, an
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
@@ -57,11 +55,11 @@ I’m a passionate developer who enjoys turning ideas into working, scalable, an
 
 ### Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
@@ -80,29 +78,44 @@ I’m a passionate developer who enjoys turning ideas into working, scalable, an
 
 ## 🌟 Featured Projects
 
-### 1. Project Name
-A powerful project focused on solving a meaningful problem with a clean, scalable architecture.
+### 1. Companion AI - AI-Assisted Emergency Triage
+An intelligent emergency incident management system leveraging machine learning and Spring Boot for real-time severity classification and automated incident response.
 
-- 🔧 Tech: React, Node.js, MongoDB
-- ⭐ Highlights: API design, user experience, performance optimization
-- 🔗 GitHub: [Your Repo Link]
+- 🔧 Tech: Spring Boot, Spring AI, PostgreSQL, Machine Learning Pipelines
+- ⭐ Highlights: 
+  - AI-driven context parsing for incident severity scoring
+  - Predictive escalation engine with SLA-based automation
+  - Enterprise-grade Spring Data JPA integration with advanced PostgreSQL indexing
+  - Real-time risk classification and state management
+- 🔗 GitHub: [Companion-AI Repository]
 
-### 2. Project Name
-Built to simplify workflows and improve usability through a polished interface and efficient backend.
+### 2. OpenAPI Generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
-- 🔧 Tech: Next.js, TypeScript, Tailwind
-- ⭐ Highlights: Responsive UI, full-stack integration, production-ready design
-- 🔗 GitHub: [Your Repo Link]
+- 🔧 Tech: Java, API Design, Code Generation
+- ⭐ Highlights: Automated API client & server stub generation, comprehensive documentation automation
+- 🔗 GitHub: [openapi-generator](https://github.com/Harshavardhan2951/openapi-generator)
 
-### 3. Project Name
-An idea turned into a functioning product with a strong focus on real-world use cases.
+### 3. OpenSearch
+Open source distributed and RESTful search engine built for scalability and performance.
 
-- 🔧 Tech: Python / JavaScript / SQL
-- ⭐ Highlights: Automation, logic-driven solutions, maintainability
-- 🔗 GitHub: [Your Repo Link]
+- 🔧 Tech: Java, Distributed Systems, Search Infrastructure
+- ⭐ Highlights: Enterprise search capabilities, distributed architecture, REST API
+- 🔗 GitHub: [OpenSearch](https://github.com/Harshavardhan2951/OpenSearch)
 
-> Replace these with your actual repositories to make the profile feel personal.
+### 4. Insurance Policy Management Microservices
+Spring Microservices architecture for comprehensive insurance policy management with distributed system patterns.
 
+- 🔧 Tech: Spring Boot Microservices, Docker, MySQL
+- ⭐ Highlights: Service-oriented architecture, containerization, scalable policy handling
+- 🔗 GitHub: [Insurence-Policy-Management-Microservices](https://github.com/Harshavardhan2951/Insurence-Policy-Management-Microservices)
+
+### 5. Stock Sentiment Reactions
+Customer feedback sentiment analysis and reactions system for vendor evaluation.
+
+- 🔧 Tech: Python, Machine Learning, Data Analysis
+- ⭐ Highlights: Sentiment classification, feedback aggregation, reaction analytics
+- 🔗 GitHub: [Stock_Sentiment_Reactions](https://github.com/Harshavardhan2951/Stock_Sentiment_Reactions)
 ---
 
 ## 🧩 What I’m Into
