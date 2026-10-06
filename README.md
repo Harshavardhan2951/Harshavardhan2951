@@ -83,7 +83,7 @@ An intelligent emergency incident management system leveraging machine learning 
   - Predictive escalation engine with SLA-based automation
   - Enterprise-grade Spring Data JPA integration with advanced PostgreSQL indexing
   - Real-time risk classification and state management
-- 🔗 GitHub: [Companion-AI Repository]
+- 🔗 GitHub: [Companion-AI Private[Building] Repository]
 
 ### 2. OpenAPI Generator
 OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
@@ -98,21 +98,6 @@ Open source distributed and RESTful search engine built for scalability and perf
 - 🔧 Tech: Java, Distributed Systems, Search Infrastructure
 - ⭐ Highlights: Enterprise search capabilities, distributed architecture, REST API
 - 🔗 GitHub: [OpenSearch](https://github.com/Harshavardhan2951/OpenSearch)
-
-### 4. Insurance Policy Management Microservices
-Spring Microservices architecture for comprehensive insurance policy management with distributed system patterns.
-
-- 🔧 Tech: Spring Boot Microservices, Docker, MySQL
-- ⭐ Highlights: Service-oriented architecture, containerization, scalable policy handling
-- 🔗 GitHub: [Insurence-Policy-Management-Microservices](https://github.com/Harshavardhan2951/Insurence-Policy-Management-Microservices)
-
-### 5. Stock Sentiment Reactions
-Customer feedback sentiment analysis and reactions system for vendor evaluation.
-
-- 🔧 Tech: Python, Machine Learning, Data Analysis
-- ⭐ Highlights: Sentiment classification, feedback aggregation, reaction analytics
-- 🔗 GitHub: [Stock_Sentiment_Reactions](https://github.com/Harshavardhan2951/Stock_Sentiment_Reactions)
----
 
 ## 🧩 What I’m Into
 
